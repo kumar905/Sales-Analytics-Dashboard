@@ -1,6 +1,6 @@
 # Zomato Restaurant Data Analysis 📊
 
-Power BI and SQL analysis of restaurant data across multiple countries, uncovering
+Power BI and Excel analysis of restaurant data across multiple countries, uncovering
 cuisine trends, delivery patterns, and pricing insights.
 
 ## 📁 Dataset
@@ -16,15 +16,14 @@ cuisine trends, delivery patterns, and pricing insights.
 - Average votes per restaurant: 156.91
 
 ## 🛠️ Tools & Technologies
-- **Power BI** — interactive dashboard and visualizations
-- **Python** — Pandas, NumPy, Matplotlib for data cleaning and analysis
-- **SQL** — joins, aggregations, and window functions for data extraction
+- **Power BI** — interactive dashboard, DAX measures, and visualizations
+- **Microsoft Excel** — data cleaning, transformation, and pivot table analysis
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](Screenshot%202026-07-18%20143216.png)
+![Dashboard Screenshot](dashboard-preview.png)
 
 ## 📈 What This Project Demonstrates
-- End-to-end analytics workflow: data cleaning → SQL analysis → dashboard build
+- End-to-end analytics workflow: Excel-based data cleaning → Power BI dashboard build
 - Translating raw data into business-relevant insights (delivery trends, pricing, cuisine popularity)
 - Data storytelling through interactive Power BI visuals
 
